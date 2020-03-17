@@ -13,4 +13,3 @@ npm-debug.log
 .DS_Store
 pgdata
 *.env
-.vscode

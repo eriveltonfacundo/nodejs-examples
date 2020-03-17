@@ -3,7 +3,8 @@
 	"version": "1.0.0",
 	"description": "",
 	"scripts": {
-		"start": "nodemon --watch src src/server.js"
+		"start": "nodemon --inspect=0.0.0.0 --watch src src/server.js"
+
 	},
 	"keywords": [],
 	"author": "",
